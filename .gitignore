@@ -9,7 +9,7 @@ venv/
 # Project specific
 output/
 translated.md
-wheelbuilding1.pdf
+*.pdf
 
 # OS
 .DS_Store
