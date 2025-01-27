@@ -1,6 +1,6 @@
-# PDF翻訳ツール
+# Claude PDF Translator
 
-PDFファイルを画像に変換し、Claude APIを使用して日本語に翻訳するツールです。
+PDFファイルを画像に変換し、Claude APIを使用して日本語に翻訳するPythonツールです。
 
 ## セットアップ
 
@@ -26,7 +26,7 @@ powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
 
 ```bash
 # プロジェクトディレクトリに移動
-cd translate-pdf
+cd claude-pdf-translator
 ```
 
 ### 4. 依存パッケージのインストール

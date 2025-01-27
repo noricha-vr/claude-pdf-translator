@@ -1,5 +1,5 @@
 [project]
-name = "translate-pdf"
+name = "claude-pdf-translator"
 version = "0.1.0"
 description = "PDF translation tool using Claude API"
 readme = "README.md"
