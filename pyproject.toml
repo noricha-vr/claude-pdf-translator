@@ -1,0 +1,14 @@
+[project]
+name = "translate-pdf"
+version = "0.1.0"
+description = "PDF translation tool using Claude API"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "anthropic>=0.45.0",
+    "pdf2image>=1.17.0",
+    "pillow>=11.1.0",
+]
+
+[tool.ruff]
+line-length = 88
