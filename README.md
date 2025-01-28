@@ -33,9 +33,7 @@ cd claude-pdf-translator
 
 #### uvを使用する場合（推奨）
 ```bash
-uv venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-uv pip install .
+uv sync
 ```
 
 #### pipを使用する場合
