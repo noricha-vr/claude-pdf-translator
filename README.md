@@ -34,6 +34,7 @@ cd claude-pdf-translator
 #### uvを使用する場合（推奨）
 ```bash
 uv sync
+. .venv/bin/activate
 ```
 
 #### pipを使用する場合
